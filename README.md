@@ -5,4 +5,4 @@
 数据集：https://github.com/zhaoyang97/datasets
 
 
-[DDR和IDRiD数据集介绍](./docs/ddr&idrid.md)
+[DDR和IDRiD数据集介绍](docs/ddr&idrid.md)
