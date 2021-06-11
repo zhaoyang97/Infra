@@ -19,4 +19,4 @@
 
 ## 博客地址
 
-* [x] [严勐]https://blog.csdn.net/bryant_meng
+* [严勐](https://blog.csdn.net/bryant_meng)
