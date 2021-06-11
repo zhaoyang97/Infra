@@ -69,10 +69,9 @@ DDR是一个语义分割数据集。由眼底图像，其中训练集包括383�
 ## 图例
 
 下面是是数据集中的一张图像和标签`007-3319-200.jpg`
-<figure class="half">
-    <img src="images/007-3319-200.jpg" alt="007-3319-200.jpg" style="zoom: 25%;" />
-    <img src="images/007-3319-200.png" alt="007-3319-200.png" style="zoom: 25%;" />
-</figure>
+<center class="half">
+    <img src="images/007-3319-200.jpg" alt="007-3319-200.jpg" style="zoom: 25%;" /><img src="images/007-3319-200.png" alt="007-3319-200.png" style="zoom: 25%;" />
+</center>
 
 下面是是数据集中的一张图像和标签`007-3375-200.jpg`
 <img src="images/007-3375-200.jpg" alt="007-3375-200.jpg" style="zoom:25%;" /><img src="images/007-3375-200.png" alt="007-3375-200.png" style="zoom:25%;" />
