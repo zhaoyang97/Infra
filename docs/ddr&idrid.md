@@ -17,5 +17,5 @@ DDR是一个语义分割数据集。由眼底图像，其中训练集包括383�
 * 黄色：SE
 * 红色：EX
 
-![007-3319-200.png](docs/images/007-3319-200.png)
-![007-3375-200.png](docs/images/007-3375-200.png)
+<img src="images/007-3319-200.png" alt="007-3319-200.png" style="zoom: 25%;" />
+<img src="images/007-3375-200.png" alt="007-3375-200.png" style="zoom:25%;" />
