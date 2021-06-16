@@ -15,4 +15,4 @@ https://www.jetbrains.com/pycharm/download/
 ## 二、配置服务器
 
 1.
-![步骤1](images/sftp/1.png)
+![步骤1](./images/sftp/1.png)
