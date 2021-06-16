@@ -10,9 +10,10 @@
 * 环境：https://github.com/zhaoyang97/envs
 * 数据集：https://github.com/zhaoyang97/datasets
 
-代码同步到服务器
+建议配置
 
-代码版本管理
+* 代码同步到服务器
+* 代码版本管理
 
 ## 数据集介绍
 
