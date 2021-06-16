@@ -33,7 +33,7 @@ https://www.jetbrains.com/pycharm/download/
 ![步骤6](./images/sftp/6.png)
 
 
-## 同步文件到服务器
+## 三、同步文件到服务器
 
 1. 右键文件或文件夹
 ![步骤7](./images/sftp/7.png)
