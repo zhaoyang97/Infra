@@ -35,8 +35,8 @@ https://www.jetbrains.com/pycharm/download/
 
 ## 三、同步文件到服务器
 
-1. 右键文件或文件夹
+1. 右键文件或文件夹<br>
 ![步骤7](./images/sftp/7.png)
 
-2. 选择要上传的服务器
+2. 选择要上传的服务器<br>
 ![步骤8](./images/sftp/8.png)
