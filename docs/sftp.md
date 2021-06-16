@@ -12,6 +12,7 @@ https://www.jetbrains.com/pycharm/download/
 
 3. 用学生账号激活pycharm专业版
 
+
 ## 二、配置服务器
 
 1. 在Tools中依次点击
